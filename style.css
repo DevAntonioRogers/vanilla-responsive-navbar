@@ -181,6 +181,11 @@ nav {
   }
 
   .divider-container {
-    width: 89%;
+    width: 80%;
+    height: 4rem;
+  }
+
+  .divider-container h1 {
+    font-size: 2rem;
   }
 }
