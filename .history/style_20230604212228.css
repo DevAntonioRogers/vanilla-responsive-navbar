@@ -38,24 +38,11 @@ nav {
 
 .nav-menu {
   display: flex;
-  gap: 40px;
+  gap: 25px;
 }
 
 .nav-menu > * {
   font-weight: 600;
   letter-spacing: 1px;
   cursor: pointer;
-}
-
-.nav-container button {
-  background: #fc466b;
-  background: -webkit-linear-gradient(to right, #3f5efb, #fc466b);
-  background: linear-gradient(to right, #3f5efb, #fc466b);
-  color: white;
-  border: none;
-  padding: 0.5rem 2rem;
-  font-weight: 600;
-  letter-spacing: 1px;
-  cursor: pointer;
-  border-radius: 30px;
 }
